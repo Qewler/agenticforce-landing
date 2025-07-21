@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude auth status)",
+      "Bash(claude auth logout)",
+      "Bash(claude auth login)"
+    ],
+    "deny": []
+  }
+}
