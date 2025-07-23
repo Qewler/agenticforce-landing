@@ -3,7 +3,13 @@
     "allow": [
       "Bash(claude auth status)",
       "Bash(claude auth logout)",
-      "Bash(claude auth login)"
+      "Bash(claude auth login)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(mkdir:*)",
+      "Bash(mv:*)",
+      "Bash(true)",
+      "Bash(sed:*)"
     ],
     "deny": []
   }
